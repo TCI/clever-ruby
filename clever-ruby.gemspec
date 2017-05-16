@@ -20,7 +20,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
 
   gem.add_runtime_dependency 'multi_json',    '~> 1.1'
-  gem.add_runtime_dependency 'rest-client',   '~> 1.6.7'
+  gem.add_runtime_dependency 'rest-client',   '~> 1.6'
 
   gem.add_development_dependency 'rake',          '~> 11.1.2'
   gem.add_development_dependency 'minitest',      '~> 5.4.1'
